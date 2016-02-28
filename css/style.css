@@ -14,7 +14,7 @@ body {font-family:Arial, Helvetica, sans-serif;font-size:100%;color:#a1a1a1;min-
 	font-size:0.8125em;
 	line-height:1.5384em;
 }
-a {color:#000291; outline:none}
+a {color:#0004ff; outline:none}
 a:hover {text-decoration:none}
 .col-1, .col-2 {float:left}
 .wrapper {width:100%; overflow:hidden}
@@ -130,7 +130,7 @@ h1 a {
 	letter-spacing:-1px;
 }
 .menu li a.active,
-.menu li a:hover {color:#000291}
+.menu li a:hover {color:#0004ff}
 
 
 /********Slider********/
@@ -169,7 +169,7 @@ h3 {
 	font-size:25px; 
 	line-height:2em; 
 	margin:0 0 9px 0; 
-	color:#000291;
+	color:#0004ff;
 }
 h3 strong {color:#fff}
 h4 {
@@ -179,9 +179,9 @@ h4 {
 	letter-spacing:-1px;
 	margin-bottom:-8px;
 	}
-h4 strong {color:#000291}
+h4 strong {color:#0004ff}
 h4 a {text-decoration:none; display:inline-block; color:#fff}
-h4 a:hover {color:#000291}
+h4 a:hover {color:#0004ff}
 h6 {
 	font-size:13px;
 	line-height:20px;
@@ -232,7 +232,7 @@ h6 {
 		display:inline-block;
 		color:#fff;
 	}
-		.list-1 li a:hover {color:#000291}
+		.list-1 li a:hover {color:#0004ff}
 		
 .list-2 {padding:5px 21px 0 0}
 .list-2 li {
@@ -279,7 +279,7 @@ h6 {
 		color:#fff;
 		text-decoration:none;
 	}
-		.list-3 li a:hover {color:#000291}
+		.list-3 li a:hover {color:#0004ff}
 
 .list-4 dt {padding-bottom:10px}
 .list-4 dd a {margin-left:20px}
